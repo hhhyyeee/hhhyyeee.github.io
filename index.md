@@ -28,4 +28,4 @@ Committed to advancing robust adaptation methodologies to enhance model reliabil
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
