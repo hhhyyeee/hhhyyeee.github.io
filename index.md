@@ -2,21 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student at ...
+Passionate researcher in computer vision, with a focus on unsupervised learning and out-of-domain generalization. Experienced in developing parameter-efficient fine-tuning methods for continual learning and test-time adaptation.
+
+Received an M.S. in Computer Science from Ewha Womans University, advised by Prof. Dongbo Min in the Computer Vision Lab. Conducted research on robust adaptation techniques to improve model performance under domain shifts.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** semantic segmentation, stereo depth estimation
+- **Machine Learning:** unsupervised learning, out-of-domain generalization, parameter-efficient fine tuning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2025]** Our paper, Hybrid-TTA, got accepted in ICCV 2025!
 
 {% include_relative _includes/publications.md %}
 
