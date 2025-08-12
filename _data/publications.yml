@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo"
-    authors: Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)
+    authors: "Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)"
     # conference_short: 
     conference: preprint
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
@@ -19,4 +19,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/overview_v1.5.pdf
+    image: ./assets/img/overview_v1.5.png
