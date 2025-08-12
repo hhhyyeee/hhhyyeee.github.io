@@ -1,6 +1,6 @@
 main:
 
-  - title: "Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection"
+  - title: "⛵Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection"
     authors: <strong>Hyewon Park</strong>, Hyejin Park, Jueun Ko, Dongbo Min
     conference_short: ICCV
     conference: International Conference of Computer Vision <strong>(ICCV)</strong>, 2025.
