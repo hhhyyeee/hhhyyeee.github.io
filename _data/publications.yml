@@ -1,5 +1,17 @@
 main:
 
+  - title: "RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo"
+    authors: "Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)"
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Proceeding Systems <strong>(NeurIPS)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/overview_v1.5.jpg
+
+
   - title: "⛵Hybrid-TTA: Continual Test-time Adaptation via Dynamic Domain Shift Detection"
     authors: <strong>Hyewon Park</strong>, Hyejin Park, Jueun Ko, Dongbo Min
     conference_short: ICCV
@@ -9,14 +21,3 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/figure1_2_6.png
     # notes: Early Accept
-
-  - title: "RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo"
-    authors: "Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)"
-    conference_short:
-    conference: Under review
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/overview_v1.5.jpg
