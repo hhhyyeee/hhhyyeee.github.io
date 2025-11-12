@@ -3,7 +3,7 @@ main:
   - title: "RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo"
     authors: "Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)"
     conference_short: NeurIPS
-    conference: Conference on Neural Information Proceeding Systems <strong>(NeurIPS)</strong>, 2025.
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/0ju-un/RobIA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
