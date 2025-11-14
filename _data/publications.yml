@@ -4,7 +4,7 @@ main:
     authors: "Jueun Ko*, <strong>Hyewon Park*</strong>, Hyesong Choi, Dongbo Min (*: Equal Contribution)"
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2511.10107
     code: https://github.com/0ju-un/RobIA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
