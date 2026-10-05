@@ -28,5 +28,6 @@ Committed to advancing robust adaptation methodologies to enhance model reliabil
 - **[Jun. 2025]** One paper got accepted in ICCV 2025🏝️!
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
